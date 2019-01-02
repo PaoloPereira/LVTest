@@ -1,0 +1,58 @@
+[Files]
+Names=User Requirements,System Software Level Requirements,Detailed Software Design,Hardware Requirements,UTF,UTF Requirements
+RepositoryTool=Boost
+
+[User Requirements]
+Cover1=System Software Level Requirements
+Cover1Kind=1
+Cover1Position=2320@875
+Cover2=Hardware Requirements
+Cover2Kind=1
+Cover2Position=3560@860
+GraphicPosition=2610@360
+Type=Word
+Path=Blood Pressure Requirements - User.doc
+AbsolutePath=C:\Users\ekerry\Projects\Software Engineering Tools\Source\Software Engineering\Requirements Documents\Blood Pressure Requirements - User.doc
+GVPosition=220,1260,3180,2500
+
+[System Software Level Requirements]
+Cover1=Detailed Software Design
+Cover1Kind=1
+Cover1Position=1990@1450
+GraphicPosition=2160@1110
+Type=Word
+Path=Blood Pressure Requirements - System Level.doc
+AbsolutePath=C:\Users\ekerry\Projects\Software Engineering Tools\Source\Software Engineering\Requirements Documents\Blood Pressure Requirements - System Level.doc
+GVPosition=5260,2660,10360,4540
+
+[Detailed Software Design]
+GraphicPosition=1750@1860
+Type=Word
+Path=Blood Pressure Requirements - Detailed Software Design.doc
+AbsolutePath=C:\Users\ekerry\Projects\Software Engineering Tools\Source\Software Engineering\Requirements Documents\Blood Pressure Requirements - Detailed Software Design.doc
+GVPosition=12920,620,18100,8740
+
+[Hardware Requirements]
+GraphicPosition=4260@1150
+Type=Word
+Path=Blood Pressure Requirements - Hardware.doc
+AbsolutePath=C:\Users\ekerry\Projects\Software Engineering Tools\Source\Software Engineering\Requirements Documents\Blood Pressure Requirements - Hardware.doc
+GVPosition=5360,500,10440,2060
+
+[UTF]
+GraphicPosition=3850@3290
+Type=UTF Test Definition (LVTEST)
+Path=..\Unit Tests
+AbsolutePath=C:\Users\ekerry\Projects\Software Engineering Tools\Source\Software Engineering\Unit Tests
+GVPosition=11440,8940,16460,11140
+
+[UTF Requirements]
+Cover1=UTF
+Cover1Kind=1
+Cover1Position=3710@2980
+GraphicPosition=3435@2515
+Type=Word
+Path=Blood Pressure Requirements - Software Unit Tests.doc
+AbsolutePath=C:\Users\ekerry\Projects\Software Engineering Tools\Source\Software Engineering\Requirements Documents\Blood Pressure Requirements - Software Unit Tests.doc
+GVPosition=2040,8900,10040,11100
+
